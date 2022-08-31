@@ -5,6 +5,7 @@ import LogIn from './Components/LogIn';
 import ProductDetails from "./Components/ProductDetails/ProductDetails";
 import RequireAuth from "./Components/RequireAuth";
 import SignUp from './Components/SignUp';
+import Vedios from "./Components/Vedios";
 import Footer from "./Shared/Footer";
 import Header from "./Shared/Header";
 
@@ -22,6 +23,7 @@ function App() {
             </RequireAuth>
           }
         ></Route>
+        <Route path="/vedios" element={<Vedios></Vedios>}></Route>
         <Route path="/login" element={<LogIn></LogIn>}></Route>
         <Route path="/signup" element={<SignUp></SignUp>}></Route>
       </Routes>

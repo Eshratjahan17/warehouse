@@ -45,7 +45,7 @@ const Product = ({ product }) => {
           <button
             onClick={() => handleproduct(_id)}
             href="/products/:id"
-            className="btn btn-secondary text-white"
+            className="btn btn-neutral "
           >
             Manage Stock
           </button>
