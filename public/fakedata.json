@@ -1,0 +1,50 @@
+[
+  {
+    "price": "$2,087.72",
+    "picture": "https://i.ibb.co/rHZC2Nr/Rectangle-16.jpg",
+    "quantity": 47,
+    "name": "IMac",
+    "supplier": "DANCITY",
+    "about": "iMac is a family of all-in-one Macintosh desktop computers designed and built by Apple Inc. \r\n"
+  },
+  {
+    "price": "$1,269.89",
+    "picture": "https://i.ibb.co/FswWkFh/Rectangle-17.jpg",
+    "quantity": 38,
+    "name": "Mac Pro",
+    "supplier": "SONGBIRD",
+    "about": "What is Mac Pro used for?Mac Pro is designed for pros who need the ultimate in CPU performance. \r\n"
+  },
+  {
+    "price": "$3,465.91",
+    "picture": "https://i.ibb.co/RS6ZpTP/Untitled-1.jpg",
+    "quantity": 22,
+    "name": "Apple Watch SE",
+    "supplier": "CANOPOLY",
+    "about": "Apple Watch SE features a Retina display that's over 30 percent larger than the Series 3 display. \r\n"
+  },
+  {
+    "price": "$3,238.03",
+    "picture": "https://i.ytimg.com/vi/hs_6mefQwKI/maxresdefault.jpg",
+    "quantity": 43,
+    "name": "Apple Watch Nike",
+    "supplier": "MEDCOM",
+    "about": "One reason is that the Nike version comes with exclusive watch faces that you don't get on any other Apple Watch. \r\n"
+  },
+  {
+    "price": "$3,488.77",
+    "picture": "https://i.ibb.co/j6tH10W/Rectangle-12.jpg",
+    "quantity": 50,
+    "name": "AirPods Pro",
+    "supplier": "AQUAFIRE",
+    "about": "The stems are said to be shorter or even nonexistent. Other rumors point to improved sound quality (including possibly support for Apple Lossless), better noise cancelling, and maybe even fitness features. \r\n"
+  },
+  {
+    "price": "$3,760.84",
+    "picture": "https://i.ibb.co/SBTznGS/Rectangle-13.jpg",
+    "quantity": 43,
+    "name": "AirPods 2nd generation",
+    "supplier": "HARMONEY",
+    "about": "If you're looking to just listen to music or a few podcasts, the AirPods (2nd generation) is a decent choice for iPhone owners, since the connection never drops and total battery life is pretty good. \r\n"
+  }
+]
